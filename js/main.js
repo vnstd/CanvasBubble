@@ -12,7 +12,7 @@
 
   const tPI = 2 * Math.PI;
   const canvas = document.querySelector(`canvas`);
-  const cCont    = canvas.getContext(`2d`);
+  const cCont = canvas.getContext(`2d`);
 
   let w, h, mouse, dots;
 
